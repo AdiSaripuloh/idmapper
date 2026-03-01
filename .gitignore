@@ -1,0 +1,14 @@
+# Profiling outputs (go test -cpuprofile / -memprofile)
+*.prof
+
+# Test binaries (go test -c) and coverage outputs
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
